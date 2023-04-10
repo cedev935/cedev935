@@ -24,6 +24,7 @@
 - HTML5/CSS3
 - JavaScript
 - TypeScript
+- Firefly
 - NodeJS
 - Python
 - PHP
