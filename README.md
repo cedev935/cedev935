@@ -88,8 +88,8 @@
 ## My GitHub Stats 📊
 
 
-![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=goldpal&theme=react-dark)
+![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=winnerdev2012&theme=react-dark)
 
 <p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=goldpal&theme=highcontrast&hide_border=true"/>
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=winnerdev2012&theme=highcontrast&hide_border=true"/>
 </p>
