@@ -26,13 +26,13 @@
   </h2>
 
   <div align="center"> 
-    <a href="mailto:cooker0910@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="mailto:innerpeace41025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://join.skype.com/invite/wZERri6MkOpj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+    <a href="https://join.skype.com/invite/q2X6xNwHKyNA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://t.me/athena_kj" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+    <a href="https://t.me/leonsoft20" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
     &nbsp;&nbsp;
-    <a href="https://discordapp.com/users/916160983716741150" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
+    <a href="https://discord.gg/PHhWDUyq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
 </div>
 
