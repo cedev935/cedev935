@@ -93,9 +93,3 @@
         </tr>
     </table>
 </p>
-
-## My GitHub Stats 📊
-
-<p align="center">
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=winnerdev2012&theme=highcontrast&hide_border=true"/>
-</p>
