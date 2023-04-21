@@ -35,18 +35,6 @@
     <a href="https://discord.gg/PHhWDUyq" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   </div>
 </div>
-
-## 🛠️ My Favorite Programming Languages
-
-> Front-End | Back-End Development
-- HTML5/CSS3
-- JavaScript
-- TypeScript
-- Firefly
-- NodeJS
-- Python
-- PHP
-
 <br>
 
 ## 💫 My🌟BEST🌟 SKILLS
