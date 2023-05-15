@@ -27,7 +27,7 @@
   </h2>
 
   <div align="center"> 
-    <a href="mailto:innerpeace41025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+    <a href="http://mailto:innerpeace41025@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
     &nbsp;&nbsp;
     <a href="https://join.skype.com/invite/q2X6xNwHKyNA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
     &nbsp;&nbsp;
