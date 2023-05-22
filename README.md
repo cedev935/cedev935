@@ -19,13 +19,6 @@
 
 <a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
 
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      These are my contact info
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-</div>
 <br>
 
 ## 💫 My🌟BEST🌟 SKILLS
