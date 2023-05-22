@@ -17,8 +17,6 @@
 ### :smile: Successful track record of developing.
 --------
 
-<a href="#"><img align="right" height="250" width="375" alt="" src="./source/back-new.gif"/></a>
-
 <br>
 
 ## 💫 My🌟BEST🌟 SKILLS
