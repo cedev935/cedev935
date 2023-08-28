@@ -41,6 +41,6 @@
             <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
         </tr>
     </table>
-    ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+    [Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 </p>
 
