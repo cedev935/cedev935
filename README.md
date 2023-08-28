@@ -42,3 +42,4 @@
         </tr>
     </table>
 </p>
+![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
