@@ -1,5 +1,5 @@
 ## 💫 My🌟BEST🌟 SKILLS
-![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=peter279k&label=views&color=blue&style=flat)
 <p align="center">
     <table>
         <tr>
