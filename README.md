@@ -1,3 +1,30 @@
+- About me
+
+ 🔥🔥🔥I am a talented Full-Stack Developer with rich experience in Web development.🔥🔥🔥
+ 
+ Great experience in developing several fields such as e-Sport, e-Learning, Healthcare, Wellness & Fitness, and so on.
+ 
+Developed the Hiring Meeting & Conference Website for graduates with zoom script, E-Learning Website for Children, Food Delivery and Ride Ordering Service Websites, Air-Conditioning Company Site, Booking system, Dapp, NFT Mint, NFT Marketplace, DAO, Metaverse, etc.
+
+I am happy to help you, guys with my skills.
+
+If you need my help, please contact me! Don't hesitate!
+
+💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
+
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless
+
+☀️ Mobile App: React Native, Android Java
+
+🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
+
+💥 Others: D3.js, ChartJS, React-hook-form, tanstack, Three.js, PixiJS PhaserJS, RESTful, Apollo GraphQL, Hasura, tRPC
+
+★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
+
+Thanks a lot in advance! 
+
+
 ## 💫 My🌟BEST🌟 SKILLS
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 <p align="center">
