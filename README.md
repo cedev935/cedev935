@@ -1,14 +1,3 @@
-- About me
-
- 🔥🔥🔥I am a talented Full-Stack Developer with rich experience in Web development.🔥🔥🔥
- 
- Great experience in developing several fields such as e-Sport, e-Learning, Healthcare, Wellness & Fitness, and so on.
- 
-Developed the Hiring Meeting & Conference Website for graduates with zoom script, E-Learning Website for Children, Food Delivery and Ride Ordering Service Websites, Air-Conditioning Company Site, Booking system, Dapp, NFT Mint, NFT Marketplace, DAO, Metaverse, etc.
-
-I am happy to help you, guys with my skills.
-
-If you need my help, please contact me! Don't hesitate!
 
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
