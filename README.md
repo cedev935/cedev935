@@ -99,4 +99,25 @@ Thanks a lot in advance!
         </tr>
     </table>
 </p>
+<hr>
+<br>
+<h3 align="left">My GitHub Stats:</h3>
+<div>
+
+</div>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
+    <a href="https://github.com/cedev935">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&&text_color=c9cacc&theme=radical" />
+    </a>
+</p>
+
+<p  align="Right">
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/> -->
+
+</p>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
+</p>
+
 
