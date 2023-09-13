@@ -21,83 +21,302 @@ Thanks a lot in advance!
 ## 💫 My🌟BEST🌟 SKILLS
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
 <p align="center">
-    <table>
-        <tr>
-            <td><img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="100" style="visibility: visible;"></td>
-            <td><img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="apollographql-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="100"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="aws-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/messenger/messenger-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="100" style="visibility: visible;"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/zoomus/zoomus-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-            <td><img src="https://www.vectorlogo.zone/logos/freelancer/freelancer-icon.svg" alt="linux-github-profile-awesome-beautiful" width="100"/></td>
-        </tr>
-    </table>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="45" height="45" alt="rails" />
+      <br>WordPress
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
+      <br>Django
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <br>RESTful API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=babel" width="45" height="45" alt="babel" />
+      <br>Babel
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=autocad" width="45" height="45" alt="AutoCAD" />
+      <br>AutoCAD
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C#
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=codepen" width="45" height="45" alt="Codepen" />
+      <br>Codepen
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=d3" width="45" height="45" alt="D3.js" />
+      <br>D3.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
+      <br>.Net
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="Electron.js" />
+      <br>Electron
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
+      <br>Gatsby
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku" />
+      <br>Heroku
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
+      <br>Nest.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=r" width="45" height="45" alt="R" />
+      <br>R
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=raspberrypi" width="45" height="45" alt="raspberrypi" />
+      <br>Raspberrypi
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=remix" width="45" height="45" alt="Remix" />
+      <br>Remix
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <br>Sass
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="stackoverflow" />
+      <br>Stackoverflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
+      <br>Vscode
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=symfony" width="45" height="45" alt="symfony" />
+      <br>Symfony
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="ps" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=ae" width="45" height="45" alt="AE" />
+      <br>AE
+    </td>
+  </tr>
+</table>
 </p>
 <hr>
 <br>
