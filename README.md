@@ -103,7 +103,7 @@ Thanks a lot in advance!
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
-      <br>RESTful API
+      <br>RestAPI
     </td>
   </tr>
   <tr>
@@ -258,8 +258,8 @@ Thanks a lot in advance!
       <br>R
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="45" height="45" alt="raspberrypi" />
-      <br>Raspberrypi
+      <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="discord" />
+      <br>Discord
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
@@ -282,10 +282,6 @@ Thanks a lot in advance!
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
       <br>Spring
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" width="45" height="45" alt="stackoverflow" />
-      <br>Stackoverflow
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="svelte" />
