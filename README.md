@@ -67,7 +67,7 @@ Thanks a lot in advance!
   <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
+      <br>JS
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
@@ -87,7 +87,7 @@ Thanks a lot in advance!
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
+      <br>MDB
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
@@ -151,7 +151,7 @@ Thanks a lot in advance!
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=autocad" width="45" height="45" alt="AutoCAD" />
-      <br>AutoCAD
+      <br>CAD
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
@@ -234,8 +234,8 @@ Thanks a lot in advance!
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://skillicons.dev/icons?i=ae" width="45" height="45" alt="AE" />
+      <br>AE
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
@@ -288,10 +288,6 @@ Thanks a lot in advance!
       <br>Svelte
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="tensorflow" />
-      <br>Tensorflow
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
       <br>Vscode
     </td>
@@ -305,11 +301,7 @@ Thanks a lot in advance!
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="ps" />
-      <br>Photoshop
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ae" width="45" height="45" alt="AE" />
-      <br>AE
+      <br>PS
     </td>
   </tr>
 </table>
