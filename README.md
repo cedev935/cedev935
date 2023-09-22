@@ -19,7 +19,7 @@ Thanks a lot in advance!
 
 # 📩 Contact
 
-- Whatsapp: +373 61288434
+- Whatsapp: +1 (860) 348-3211
 - TG: @leonsoft66
 - Skype: live:.cid.bc3d1382bb91f230
 
