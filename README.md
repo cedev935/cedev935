@@ -17,6 +17,11 @@
 
 Thanks a lot in advance! 
 
+# 📩 Contact
+
+- Whatsapp: +373 61288434
+- TG: @leonsoft66
+- Skype: live:.cid.bc3d1382bb91f230
 
 ## 💫 My🌟BEST🌟 SKILLS
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
