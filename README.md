@@ -19,7 +19,7 @@ Thanks a lot in advance!
 
 # 📩 Contact
 
-- Whatsapp: +1 (860) 348-3211
+- Whatsapp: +373 61288434
 - TG: @leonsoft66
 - Skype: live:.cid.bc3d1382bb91f230
 
@@ -275,7 +275,7 @@ Thanks a lot in advance!
 </p>
 <hr>
 <br>
-<h3 align="left">My GitHub Stats:</h3>
+<!-- <h3 align="left">My GitHub Stats:</h3>
 <div>
 
 </div>
@@ -289,6 +289,16 @@ Thanks a lot in advance!
 </p>
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p>
+</p> -->
+
+
+## ⚡ Status
+
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/cedev935?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  </a>
+</div>
 
 
