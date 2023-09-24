@@ -195,7 +195,7 @@ Thanks a lot in advance!
       <br>C++
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
       <br>.Net
@@ -270,7 +270,7 @@ Thanks a lot in advance!
       <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="ps" />
       <br>PS
     </td>
-  </tr>
+  </tr> -->
 </table>
 </p>
 <hr>
