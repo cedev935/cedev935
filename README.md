@@ -1,21 +1,22 @@
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/cedev935?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
+  </a>
+</div>
 
-💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
+## 💬 Talk with me 
 
-🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence
+💧 FrontEnd: React, Next.js, Remix, Vue, Redux, , TailwindCSS, SCSS, Javascript, ES6+, Typescript, WordPress, Shopify
+
+🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, RESTFul API, PostgreSQL, AI, ML
 
 ☀️ Mobile App: React Native, Android Java, C#
 
 🚀 Database: PostgreSQL, MySQL, MongoDB, Redis, ORM(TypeORM, Sequelize, Prisma, SQLAlchemy), Knex
 
-💥 Others: D3.js, ChartJS, React-hook-form, tanstack, Three.js, PixiJS PhaserJS, RESTful, Apollo GraphQL, Hasura, tRPC, Adobe XD, Adobe PhotoShop, Adobe After Effects
+💥 Others: D3.js, ChartJS, React-hook-form, Three.js, Apollo GraphQL, Hasura, tRPC, Adobe XD, Blockchain, Solidity, Smart Contract, Web3.js
 
-🚀 Software: CAD, Unity, C++, Electronic Engineering, Mechanical Engineering
-
-💧 Web Development/Design: WordPress, Shopify, Magento, Wix, Webflow, Graphic Design, Logo Design, Web Design, Mobile App Design, E-commerce, WooCommerce
-
-★ Blockchain: Solidity (ERC20, 721, 721A, 1155, and Other Smart Contracts), Web3.js, ethers.js, web3-react, wagmi, viem, rainbowkit
-
-Thanks a lot in advance! 
 
 ## 💫 My🌟BEST🌟 SKILLS
 ![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
@@ -189,91 +190,13 @@ Thanks a lot in advance!
       <br>C++
     </td>
   </tr>
-<!--   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="DotNet" />
-      <br>.Net
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=electron" width="45" height="45" alt="Electron.js" />
-      <br>Electron
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=heroku" width="45" height="45" alt="Heroku" />
-      <br>Heroku
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
-      <br>Spring
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=r" width="45" height="45" alt="R" />
-      <br>R
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=remix" width="45" height="45" alt="Remix" />
-      <br>Remix
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=webpack" width="45" height="45" alt="webpack" />
-      <br>Webpack
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=symfony" width="45" height="45" alt="symfony" />
-      <br>Symfony
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="ps" />
-      <br>PS
-    </td>
-  </tr> -->
 </table>
 </p>
 <hr>
 <br>
-<!-- <h3 align="left">My GitHub Stats:</h3>
-<div>
-
 </div>
-<p align="left">
+
+<!--<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=cedev935&show_icons=true&theme=radical" alt="cedev935"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&hide=html,css&layout=compact&theme=radical" alt="cedev935"/>
 </p>
@@ -283,10 +206,7 @@ Thanks a lot in advance!
 </p>
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cedev935&theme=radical" alt="cedev935"/>
-</p> -->
-
-
-## ⚡ Status
+</p> 
 
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cedev935&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
@@ -294,5 +214,16 @@ Thanks a lot in advance!
     <img src="https://github-profile-trophy.vercel.app/?username=cedev935&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@cedev935's trophy stats"/>
   </a>
 </div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cedev935&theme=github_dark)
+-->
+
+
+## ⚡ Status
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedev935&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedev935&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedev935&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cedev935&theme=github_dark)
+
 
 
