@@ -220,10 +220,10 @@
 
 ## ⚡ Status
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedev935&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedev935&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedev935&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cedev935&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cedev935&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cedev935&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cedev935&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cedev935&theme=algolia&utcOffset=8)
 
 
 
